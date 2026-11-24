@@ -1,0 +1,8 @@
+{
+  "name": "हिसाब कैलकुलेटर",
+  "description": "मालिक के रोज़ाना हिसाब-किताब, जमा-खर्च और तेज़ कैलकुलेशन के लिए सरल ऐप।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
